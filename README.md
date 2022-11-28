@@ -2,7 +2,7 @@
 
 네이버 영화 리뷰 감정 말뭉치입니다.
 
-## Corpus description
+## Data description
 
 - 각 파일은 세 개의 칼럼으로 구성되어 있습니다. `id`, `document`, `label`
     - `id`: 네이버 영화 리뷰의 아이디
