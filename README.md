@@ -11,11 +11,14 @@
     - 각 열은 탭으로 구분됩니다.
     
 - 전체 리뷰는 총 77,283건입니다.
-    - `ratings_em.txt`: 전체 77,273건
-    - `ratings_em_test.txt`: 테스트 데이터 15,457건
-    - `ratings_em_train.txt`: 학습 데이터 61,616건
+    - `nemc.txt`: 전체 77,273건
+    - `nemc_test.txt`: 테스트 데이터 15,457건
+    - `nemc_train.txt`: 학습 데이터 61,616건
     
-- 감정 어휘사전을 기반으로 구축된 감정 말뭉치 v1.0은 전수 검수 후 업데이트될 예정입니다.
+- 감정 어휘사전을 기반으로 구축된 감정 말뭉치 v1.0은 검수 후 업데이트될 예정입니다.
 
-## Paper
+## Citation Information
 - Jang, Y., Choi, J., & Kim, H. (2022, August 31). KcBert-based Movie Review Corpus Emotion Analysis Using Emotion Vocabulary Dictionary. Journal of KIISE. Korean Institute of Information Scientists and Engineers. https://doi.org/10.5626/jok.2022.49.8.608
+
+## Contact
+- yeonji3547@yonsei.ac.kr
